@@ -1,0 +1,10 @@
+.navbar {
+  background: #333c83;
+  padding: 1em;
+  color: #fff;
+}
+
+li p {
+  text-decoration: underline;
+  color: white;
+}

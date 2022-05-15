@@ -1,0 +1,65 @@
+.btn {
+  padding: 0.5em 0.7em;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn-form {
+  background-color: #fdaf75;
+  color: white;
+}
+
+.btn-form:hover {
+  background-color: white;
+  color: #fdaf75;
+}
+.btn-form:active {
+  position: relative;
+  top: 1px;
+}
+
+.btn-edit {
+  background-color: #eaea7f;
+  color: black;
+  margin-right: 1em;
+}
+
+.btn-edit:hover {
+  background-color: black;
+  color: #eaea7f;
+}
+.btn-edit:active {
+  position: relative;
+  top: 1px;
+}
+
+.btn-delete {
+  background-color: #f24a72;
+  color: white;
+  margin-right: 1em;
+}
+
+.btn-delete:hover {
+  background-color: white;
+  color: #f24a72;
+}
+
+.btn-delete:active {
+  position: relative;
+  top: 1px;
+}
+
+.btn-refresh {
+  background: #333c83;
+  color: white;
+}
+
+.btn-refresh:hover {
+  background: white;
+  color: #333c83;
+}
+
+.btn-refresh:active {
+  position: relative;
+  top: 1px;
+}

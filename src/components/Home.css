@@ -1,0 +1,26 @@
+.card__text {
+  position: absolute;
+  top: 5%;
+  right: 40%;
+  color: white;
+  font-weight: 500;
+}
+.card {
+  position: relative;
+  width: 40%;
+}
+
+.center {
+  text-align: center;
+  padding: 2em;
+}
+
+.img__container {
+  width: 100%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.img__container:hover {
+  transform: rotate(3deg);
+}
